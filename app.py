@@ -5,7 +5,7 @@ import plotly.figure_factory as ff
 
 from data_cleaning import clean_data
 from anomaly_detector import detect_anomalies
-from Dashboard_engine import generate_dashboard
+from dashboard_engine import generate_dashboard
 from smart_insights import generate_insights
 from report_engine import generate_report
 
